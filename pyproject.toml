@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "pyseoanalyzer"
 version = "2024.04.21"
 authors = [
-  {name = "Seth Black", email = "sblack@sethserver.com"},
+  {name = "harsheeth", email = "shivaharshith.r@gmail.com"},
 ]
 dependencies = [
     "beautifulsoup4>=4.12.3",
